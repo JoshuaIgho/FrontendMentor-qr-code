@@ -24,7 +24,7 @@ This project not only tests my ability to structure content effectively using se
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://frontend-mentor-qr-code-peach.vercel.app/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
